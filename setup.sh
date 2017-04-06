@@ -46,5 +46,5 @@ fi
 git config --global core.editor "vim"
 
 # setup bashrc
-setup ~/.bashrc $REPO/bashrc
+# setup ~/.bashrc $REPO/bashrc
 
