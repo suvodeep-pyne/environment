@@ -1,5 +1,5 @@
-export LSCOLORS=GxFxCxDxBxegedabagaced
 export CLICOLOR=1
+export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
 
 alias la="ls -a"
 alias ll="ls -l"

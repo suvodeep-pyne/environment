@@ -33,7 +33,7 @@ function setup() {
 
 # setup vim
 mkdir -p ~/.vim
-setup ~/.vimrc $REPO/vimrc
+# setup ~/.vimrc $REPO/vimrc
 
 if [ ! -e ~/.vim/autoload/pathogen.vim ]; then 
     echo "Installing Pathogen..."
